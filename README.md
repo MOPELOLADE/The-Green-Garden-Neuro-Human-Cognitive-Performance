@@ -1,0 +1,2 @@
+# The-Green-Garden-Neuro-Human-Cognitive-Performance
+The Green Garden Neuro Initiative explore how lifestyle choices influence human cognitive performance, concerns around mental health, aging, and the effects of modern habits, it examined the impact of diet, sleep, stress, and exercise on brain function. It reveals how shifts in daily routines can shape memory, focus, &amp; overall cognitive resilience.
