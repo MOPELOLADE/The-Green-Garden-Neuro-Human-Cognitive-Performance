@@ -2,7 +2,7 @@
 The Green Garden Neuro Initiative explore lifestyle choices influence human cognitive performance, concerns around mental health, aging, and the effects of modern habits, it examined the impact of diet, sleep, stress, and exercise on brain function. It reveals how shifts in daily routines can shape memory, focus, and overall cognitive resilience.
 
 # Project Objective
-This dashboard aims to explore the relationship between cognitive performance and various lifestyle and demographic factors, including diet type, sleep duration, memory test frequency, gender, and stress-related aging patterns. The analysis seeks to understand how these variables interact to influence cognitive health and performance across different age groups.
+This project aims to explore the relationship between cognitive performance and various lifestyle and demographic factors, including diet type, sleep duration, memory test frequency, gender, and stress-related aging patterns. The analysis seeks to understand how these variables interact to influence cognitive health and performance across different age groups.
 
 ![DASHBOARD 1](https://github.com/user-attachments/assets/8e146305-1766-47a5-9f1b-09b951028e90)
 
