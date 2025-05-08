@@ -37,14 +37,14 @@ vii.	Daily Screen Time: Hours spent daily in front of screens.
 # Final Observations
 1. Moderate levels of cognitive exercise appear more effective than high-frequency training.
 
-2.Non-vegetarian diets are linked to better recall and sleep metrics.
+2. Non-vegetarian diets are linked to better recall and sleep metrics.
 
 3. Females exhibit the highest cumulative cognitive function despite lower memory test scores.
 
 4. Age plays a role in stress-related cognitive aging, with performance dropping after age 57.
 
 # Final Recommendation
-Final Recommendation
+
 	To optimize cognitive health:
 
 	Encourage a balanced (non-vegetarian inclusive) diet, especially for memory retention and sleep regulation.
